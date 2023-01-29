@@ -1,9 +1,7 @@
 {
   "compilerOptions": {
     "target": "es2019",
-    "lib": [
-      "dom"
-    ],
+    "lib": ["dom"],
     "module": "commonjs",
     "esModuleInterop": true,
     "strict": true
